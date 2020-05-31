@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+}
+
+.container {
+  text-align: center;
+  font-size: xx-large;
+  font-family: monospace;
+}
+
+input {
+  font-size: xx-large;
+}
+
+.list,
+.list2 {
+  font-size: xx-large;
+  text-align: center;
+  list-style-type: none;
+}
+
+.list2 li {
+  text-decoration: line-through;
+}
+
+li {
+  font-size: xx-large;
+}
+
+button {
+  font-size: xx-large;
+}
